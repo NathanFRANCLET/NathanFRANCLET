@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hypnos-ru&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ## CodeWars level
-![codewars](https://www.codewars.com/users/Hypnos-ru/badges/large)
+![codewars](https://www.codewars.com/users/NathanFranclet/badges/large)
 
 
 ## Hi!
