@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=NathanFranclet&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanFranclet&show_icons=true&theme=midnight-purple)
 ## CodeWars level
 ![codewars](https://www.codewars.com/users/NathanFranclet/badges/large)
 
