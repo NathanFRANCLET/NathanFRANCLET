@@ -1,8 +1,8 @@
 
-# Nathan FRANÇLET
+# Nathan FRANCLET
 
 ## About Me
-Hello! I'm Nathan FRANÇLET, a passionate cybersecurity student with a keen interest in creating interactive and dynamic applications.
+Hello! I'm Nathan FRANCLET, a passionate cybersecurity student with a keen interest in creating interactive and dynamic applications.
 
 ## Contact
 - **Email**: [nathanfranclet5@gmail.com](mailto:nathanfranclet5@gmail.com)
